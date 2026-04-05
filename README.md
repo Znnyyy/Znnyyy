@@ -1,13 +1,6 @@
 <div align="center">
-```js
-// hello, world 👋
-const daffa = {
-  name: "Daffa Adzani",
-  role: "Frontend Developer & UI/UX Enthusiast",
-  focus: ["Clean UI", "User Experience", "Responsive Design"],
-  learning: "Always something new ✨"
-}
-```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Daffa+Adzani+👋;Frontend+Developer;UI%2FUX+Enthusiast;Building+clean+%26+beautiful+UIs)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +14,7 @@ const daffa = {
 - 🎨 I care deeply about **UI/UX and design systems**
 - ⚡ Currently sharpening my skills in **Next.js & TypeScript**
 - 🤝 Open to collaborations and internship opportunities
-- 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/daffa-adzani)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/daffa-adzani-24ba913a4/)
 
 ---
 
@@ -49,8 +42,8 @@ const daffa = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Znnyyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znnyyy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Znnyyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Znnyyy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 
 </div>
 
