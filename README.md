@@ -1,4 +1,5 @@
 <div align="center">
+```js
 // hello, world 👋
 const daffa = {
   name: "Daffa Adzani",
@@ -6,6 +7,8 @@ const daffa = {
   focus: ["Clean UI", "User Experience", "Responsive Design"],
   learning: "Always something new ✨"
 }
+```
+
 </div>
 
 ---
@@ -26,19 +29,19 @@ const daffa = {
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite&theme=dark&perline=6)](https://skillicons.dev)
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel&theme=dark&perline=6)](https://skillicons.dev)
 
 **Design**
 
-[![My Skills](https://skillicons.dev/icons?i=figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark&perline=6)](https://skillicons.dev)
 
 **Mobile**
 
-[![My Skills](https://skillicons.dev/icons?i=react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -46,14 +49,14 @@ const daffa = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Znnyyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znnyyy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Znnyyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znnyyy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Znnyyy&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Znnyyy&theme=tokyonight&hide_border=true)
 
 </div>
 
